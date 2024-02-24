@@ -6,7 +6,7 @@
 	"routes": [
         {
             "route": "/*",
-            "redirect": "https://portal.threearrowgroup.com"",
+            "redirect": "https://portal.threearrowgroup.com",
             "statusCode": 301
         }
     ]
