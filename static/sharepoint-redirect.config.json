@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/*",
-            "redirect": "https://beamlongestneffllc.sharepoint.com/sites/Connect",
+            "redirect": "https://portal.threearrowgroup.com",
             "statusCode": 301
         }
     ]
